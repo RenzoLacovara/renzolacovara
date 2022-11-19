@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/111152760/202821137-f740a792-662c-4987-bf56-fa2571cf324d.gif)
+![banner](https://user-images.githubusercontent.com/111152760/202833128-38db2f3f-22b4-4af8-b509-b5df0abb6403.gif)
 ## A Little About Me
 I am a self-taught programmer, always curious and willing to
           learn, currently focused mainly on the development of
