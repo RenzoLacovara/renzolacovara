@@ -21,7 +21,7 @@ in the path.
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## Contact
 Interested in working with me? We can make an appointment to
-chat, I invite the coffee. 
+chat, I invite the coffee.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renlacovara/)
 
